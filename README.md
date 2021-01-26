@@ -25,7 +25,7 @@ A continuación las especificaciones de la función.
 
 ## Requisitos
 Entregar un repositorio con el código el cual debe cumplir con lo siguiente:
- - Cobertura de 80% del código
+ - Cobertura de 90% del código
  - CI/CD (puedes utilizar cualquier servicio gratuito como travis o circle)
  - Escribir código limpio suma puntos!
  - Incluir un **readme** con instrucciones para compilar, como utilizar y link al CI.
